@@ -1,4 +1,4 @@
-package com.dxc.javaconcepts;
+package com.dxc.javaconcepts.exceptions;
 
 public class NumberFormatException_Demo {
 //changes
