@@ -7,7 +7,7 @@ public class EnhancedForLoop {
 
     public static void main(String[] args)
     {
-        ArrayList<String> arr = new ArrayList<>();
+        ArrayList<String> arr = new ArrayList<String>();
         arr.add("Virat");
         arr.add("Rohit");
         arr.add("Shikar");
