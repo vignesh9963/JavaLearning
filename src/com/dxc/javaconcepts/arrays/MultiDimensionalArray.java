@@ -4,8 +4,8 @@ public class MultiDimensionalArray {
 
     public static void main(String[] args){
 //creating two matrices
-        String[][] a={{"\"Sachin","\"Manish","\"Rohit"},{"\"KL","\"Virat","\"Japrit"},{"\"Shikar","\"Kuldeep","\"Mayank"}};
-        String[][] b={{"Tendulkar\"","Pandey\"","Sharma\""},{"Rahul\"","Kohli\"","Bumrah\""},{"Dhawan\"","Yadav\"","Agarwal\""}};
+        String[][] a={{"\"Jyothi","\"Manish","\"Rohit"},{"\"KL","\"Virat","\"Japrit"},{"\"Shikar","\"Kuldeep","\"Mayank"}};
+        String[][] b={{"Chandra\"","Pandey\"","Sharma\""},{"Rahul\"","Kohli\"","Bumrah\""},{"Dhawan\"","Yadav\"","Agarwal\""}};
 
 
         String[][] c=new String[3][3];

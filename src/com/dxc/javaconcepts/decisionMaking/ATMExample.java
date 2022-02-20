@@ -24,6 +24,7 @@ public class ATMExample {
                         System.out.println("Please Collect your Cash " + withdraw);
                     } else {
                         System.out.println("Insufficient Funds");
+                        System.out.println("Please Check Balance and Try Again");
                     }
                     System.out.println("");
                     break;
